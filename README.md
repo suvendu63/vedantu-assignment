@@ -4,8 +4,8 @@
 Automation Assignment | Vedantu | Suvendu
 
 ## System requirement
-Chrome Version 84.0.4147.89
-Apache Maven 3.5.4
+Chrome Version 84.0.4147.89, 
+Apache Maven 3.5.4, 
 Java 1.8
 
 ## Setup
